@@ -1,0 +1,4 @@
+1. Print i import w jednej klasie teoretycznie łamie pierwszą zasadę solid
+2. metody powinny wykonowyć jedną akcje (printAndImport)
+3. Brak kontroli błędów
+4. Można być bardziej precyzyjnym przy imporcie danych (odpowiednio zbudowany model) - wydaje mi się że moja propozycja jest bardziej czytelna
